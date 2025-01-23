@@ -1,4 +1,4 @@
-module bhav_rv32i(clk,RN,NPC,WB_OUT);
+module vish_rv32i(clk,RN,NPC,WB_OUT);
 input clk;
 input RN;
 //input EN;
